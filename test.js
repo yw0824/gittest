@@ -5,4 +5,5 @@ function test(){
     console.log("fourth")
     console.log("five")
     console.log("six")
+    console.log("seven")
 }
